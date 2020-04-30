@@ -1,0 +1,110 @@
+header{
+  height:65px;
+  width:100%;
+  background-color:rgba(34,49,52,0.9);
+  position:fixed;
+  top:0;
+  z-index:10;
+}
+
+.logo{
+  width:124px;
+  margin-left:35px;
+
+}
+
+.container{
+  width:970px;
+  padding:0 30px;
+  margin:0 auto;
+}
+
+
+.top-wrapper{
+  padding:220px 0 140px 0;
+  background-image: url(https://farm5.static.flickr.com/4031/4322680005_b370c73855.jpg);
+  background-size:cover;
+  text-align: center;
+  color:white;
+}
+
+.top-wrapper h1{
+  opacity:0.9;
+  font-size: 50px;
+  letter-spacing: 10px;
+}
+
+.top-wrapper h3{
+  opacity:0.7;
+
+}
+
+.btn{
+  padding:8px 24px;
+  color:white;
+  display:inline-block;
+  opacity:0.8;
+  border-radius:4px;
+
+}
+
+.btn:hover{
+  opacity:1;
+}
+
+.instagram{
+  background-color:#cc33cc;
+
+}
+
+.oreno{
+  background-color: #808000;
+}
+
+.zou{
+  background-color:#666666;
+margin-left: 15px;
+}
+
+.heading h2{
+  font-size:50px;
+}
+
+h2{
+  border-bottom:2px solid #eee;
+}
+
+.syurui{
+  display:flex
+}
+.syurui2{
+  padding:20px 30px;
+  text-align: center;
+
+}
+ .syurui2 h4{
+   border-bottom:3px solid #c0c0c0;
+ }
+
+.matome-icon{
+  padding:25px;
+}
+
+.matome-icon h2{
+  border-left:4px solid #66cc00;
+}
+
+.message-wrapper{
+  border-top:3px solid #eee
+}
+
+.aaa{
+  font-size:40px
+}
+
+.bbb{
+  font-size:35px
+}
+.fa{
+  margin-right:8px;
+}
